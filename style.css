@@ -1,7 +1,7 @@
 *
 {
-	border:1px solid red;
-	/*padding:15px;
+	/*border:1px solid red;
+	padding:15px;
 	margin:10px;*/
 }
 
@@ -45,7 +45,7 @@ body
 .article
 {
 	background-color: #777;
-	color:#777;
+	color:#ebebeb;
 	padding:10px;
 	margin:10px;
 }
@@ -59,13 +59,13 @@ body
 	margin:10px;
 }
 
-p
+.p
 {
 	background-color: #ebebeb;
 	text-align: center;
 	color:#777;
 	padding:10px;
-	margin:10px;(i )
+	margin:10px;
 }
 
 
@@ -78,7 +78,7 @@ p
 	float:left;
 	margin-left:10px;
 	height:100%;
-	width:425px;
+	width:433px;
 
 
 
@@ -88,9 +88,8 @@ p
 {
 	position: relative;
 	margin:10px;
-	border:1px solid red;
-	background-color: yellow;
-	height:380px;
+
+	height:340px;
 }
 
 
@@ -99,5 +98,7 @@ footer
 	clear:both;
 	background-color: #ebebeb;
 	text-align: center;
+	margin:10px;
+	padding:10px;
 	margin:10px;
 }
